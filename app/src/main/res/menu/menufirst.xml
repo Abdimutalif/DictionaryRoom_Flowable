@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home_svg_on"
+        android:id="@+id/home"
+        android:title="Asosiy" />
+    <item
+        android:id="@+id/liked"
+        android:icon="@drawable/liked_off_svg"
+        android:title="Tanlangan" />
+</menu>
